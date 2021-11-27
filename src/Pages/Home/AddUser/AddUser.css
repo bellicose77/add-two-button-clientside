@@ -1,0 +1,14 @@
+.form-handling{
+    display: flex;
+    justify-content: center;
+    align-items: center;
+}
+.text-h2{
+    text-align: center;
+}
+.width-inp{
+    width: 800px;
+    height: 30px;
+    margin: 4px;
+
+}
